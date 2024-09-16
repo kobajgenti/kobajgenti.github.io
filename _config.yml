@@ -15,4 +15,4 @@ collections:
   Contact:
   Assignments:
 
-  permalink: pretty
+permalink: /:title/
