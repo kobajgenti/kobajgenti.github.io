@@ -28,3 +28,11 @@ I analyzed elevator data according to assignment 1 requirments on Google Colab. 
 [Github Link](https://github.com/kobajgenti/kobajgenti-assignment-1/)
 
 [<img src="https://raw.githubusercontent.com/fdivitto/FabGL/master/images/github.png" alt="GitHub Button" width="150px">](https://github.com/kobajgenti/kobajgenti-assignment-1/)
+
+## Assignment 2
+
+[Video Link](https://drive.google.com/drive/folders/1RhR7lI_CnVTeROKZz9h3_Ea2vXOB8w2Q?usp=share_link)
+
+[Github Link](https://github.com/kobajgenti/kobajgenti-assignment-2/)
+
+[<img src="https://raw.githubusercontent.com/fdivitto/FabGL/master/images/github.png" alt="GitHub Button" width="150px">](https://github.com/kobajgenti/kobajgenti-assignment-2/)
