@@ -44,3 +44,13 @@ I implemented a custom SVD to reduce the dimensionality of the MNIST dataset and
 [Github Link](https://github.com/kobajgenti/kjgenti-assignment-3/)
 
 [<img src="https://raw.githubusercontent.com/fdivitto/FabGL/master/images/github.png" alt="GitHub Button" width="150px">](https://github.com/kobajgenti/kjgenti-assignment-3/)
+
+## Assignment 4
+
+I created a Flask-based LSA search engine that queries newsgroup posts and visualizes results. I adapted the code structure from Assignment 2 to fit this project's specific LSA and search functionality requirements.
+[Video Link](https://drive.google.com/file/d/1CAvdj5KWYQmz493VdGIU7x_h5DkBHIeI/view?usp=sharing)
+
+[Github Link](https://github.com/kobajgenti/kjgenti-assignment-4/)
+
+[<img src="https://raw.githubusercontent.com/fdivitto/FabGL/master/images/github.png" alt="GitHub Button" width="150px">](https://github.com/kobajgenti/kjgenti-assignment-2/)
+
