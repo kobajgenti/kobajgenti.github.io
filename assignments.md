@@ -61,6 +61,7 @@ While I achieved 88% accuracy during one test run in Google Colab, I unfortunate
 I encountered some technical challenges, particularly with processing time. Initially, Google Colab estimated a 40-hour runtime, which was impractical. I resolved this by converting the code to run on my local machine, reducing the processing time to 2 hours.
 Although I'm disappointed I couldn't achieve better final results, the assignment was a valuable learning experience in exploring different NLP techniques and handling computational constraints.
 
-<img src="https://github.com/kobajgenti/cs506-midterm/blob/main/Screenshot%202024-10-28%20at%2016.07.13.png" alt="sucessful run" width="300px">
+[Github Link](https://github.com/kobajgenti/cs506-midterm/tree/main)
 
-[<img src="https://raw.githubusercontent.com/fdivitto/FabGL/master/images/github.png" alt="GitHub Button" width="150px">](git@github.com:kobajgenti/cs506-midterm.git)
+
+[<img src="https://raw.githubusercontent.com/fdivitto/FabGL/master/images/github.png" alt="GitHub Button" width="150px">](https://github.com/kobajgenti/cs506-midterm/tree/main)
