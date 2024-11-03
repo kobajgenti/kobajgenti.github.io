@@ -65,3 +65,13 @@ Although I'm disappointed I couldn't achieve better final results, the assignmen
 
 
 [<img src="https://raw.githubusercontent.com/fdivitto/FabGL/master/images/github.png" alt="GitHub Button" width="150px">](https://github.com/kobajgenti/cs506-midterm/tree/main)
+
+## Assignment 6
+
+For this assignment, I implemented the TODOs in a Flask application that demonstrates linear regression assumptions through interactive visualizations, where I coded the data generation, model fitting, and plotting functionality, and modified the HTML template and API endpoint to maintain form values after submission, allowing users to see how different parameters like sample size, mean, variance, and number of simulations affect the regression results and their distributions.
+
+[Github Link](https://github.com/kobajgenti/kjgenti-assignment-6/)
+
+[<img src="https://raw.githubusercontent.com/fdivitto/FabGL/master/images/github.png" alt="GitHub Button" width="150px">](https://github.com/kobajgenti/kjgenti-assignment-6/)
+
+[![Video Title](https://img.youtube.com/vi/u2uK7pennHs/0.jpg)](https://youtu.be/u2uK7pennHs)
