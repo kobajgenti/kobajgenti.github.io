@@ -75,3 +75,13 @@ For this assignment, I implemented the TODOs in a Flask application that demonst
 [<img src="https://raw.githubusercontent.com/fdivitto/FabGL/master/images/github.png" alt="GitHub Button" width="150px">](https://github.com/kobajgenti/kjgenti-assignment-6/)
 
 [![Video Title](https://img.youtube.com/vi/u2uK7pennHs/0.jpg)](https://youtu.be/u2uK7pennHs)
+
+## Assignment 7
+
+For this assignment, I implemented a Flask application that performs statistical inference on linear regression parameters. The app generates simulated data with specified parameters (β₀, β₁, μ, σ²), conducts hypothesis tests, and calculates confidence intervals. I implemented data persistence using session storage, created interactive visualizations for test results and confidence intervals, and added features like p-value calculation and dynamic color-coding based on statistical significance.
+
+[Github Link](https://github.com/kobajgenti/kjgenti-assignment-7/)
+
+[<img src="https://raw.githubusercontent.com/fdivitto/FabGL/master/images/github.png" alt="GitHub Button" width="150px">](https://github.com/kobajgenti/kjgenti-assignment-7/)
+
+[![Video Title](https://img.youtube.com/vi/v_2IHvClVuE/0.jpg)](https://youtu.be/v_2IHvClVuE)
