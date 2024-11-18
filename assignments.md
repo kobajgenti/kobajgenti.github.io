@@ -85,3 +85,16 @@ For this assignment, I implemented a Flask application that performs statistical
 [<img src="https://raw.githubusercontent.com/fdivitto/FabGL/master/images/github.png" alt="GitHub Button" width="150px">](https://github.com/kobajgenti/kjgenti-assignment-7/)
 
 [![Video Title](https://img.youtube.com/vi/v_2IHvClVuE/0.jpg)](https://youtu.be/v_2IHvClVuE)
+
+
+## Assignment 8
+
+For this assignment, I visualized how logistic regression parameters change as two data clusters move apart. My visualizations show the decision boundaries and how model parameters evolve with increasing separation.
+
+Note: The explainer video is 3 minutes (sorry for going over the time limit!)
+
+[Github Link](https://github.com/kobajgenti/kjgenti-assignment-8/)
+
+[<img src="https://raw.githubusercontent.com/fdivitto/FabGL/master/images/github.png" alt="GitHub Button" width="150px">](https://github.com/kobajgenti/kjgenti-assignment-8/)
+
+[![Video Title](https://img.youtu.be/6NTQH7FmoK8/0.jpg)](https://youtu.be/6NTQH7FmoK8)
