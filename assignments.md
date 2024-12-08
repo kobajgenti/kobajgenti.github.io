@@ -74,7 +74,7 @@ For this assignment, I implemented the TODOs in a Flask application that demonst
 
 [<img src="https://raw.githubusercontent.com/fdivitto/FabGL/master/images/github.png" alt="GitHub Button" width="150px">](https://github.com/kobajgenti/kjgenti-assignment-6/)
 
-[![Video Title](https://img.youtube.com/vi/u2uK7pennHs/0.jpg)](https://youtu.be/u2uK7pennHs)
+[![assignment 6 demo video](https://img.youtube.com/vi/u2uK7pennHs/0.jpg)](https://youtu.be/u2uK7pennHs)
 
 ## Assignment 7
 
@@ -84,7 +84,7 @@ For this assignment, I implemented a Flask application that performs statistical
 
 [<img src="https://raw.githubusercontent.com/fdivitto/FabGL/master/images/github.png" alt="GitHub Button" width="150px">](https://github.com/kobajgenti/kjgenti-assignment-7/)
 
-[![Video Title](https://img.youtube.com/vi/v_2IHvClVuE/0.jpg)](https://youtu.be/v_2IHvClVuE)
+[![assignment 7 demo video](https://img.youtube.com/vi/v_2IHvClVuE/0.jpg)](https://youtu.be/v_2IHvClVuE)
 
 
 ## Assignment 8
@@ -97,4 +97,14 @@ Note: The explainer video is 3 minutes (sorry for going over the time limit!)
 
 [<img src="https://raw.githubusercontent.com/fdivitto/FabGL/master/images/github.png" alt="GitHub Button" width="150px">](https://github.com/kobajgenti/kjgenti-assignment-8/)
 
-[![Video Title](https://img.youtu.be/6NTQH7FmoK8/0.jpg)](https://youtu.be/6NTQH7FmoK8)
+[![assignment 8 demo video](https://img.youtube.com/vi/6NTQH7FmoK8/maxresdefault.jpg)](https://youtu.be/6NTQH7FmoK8)
+
+## Assignment 10
+
+In this project, I developed an intuitive web interface for performing image and text-based similarity searches using the COCO dataset and OpenCLIP embeddings. The interface allows users to search using image queries, text queries, or a hybrid approach that combines both, with a clean UI that dynamically adjusts its form fields based on the selected search type and displays results with similarity scores.
+
+[Github Link](https://github.com/kobajgenti/kjgenti-assignment-10)
+
+[<img src="https://raw.githubusercontent.com/fdivitto/FabGL/master/images/github.png" alt="GitHub Button" width="150px">](https://github.com/kobajgenti/kjgenti-assignment-10/)
+
+[![assignment 10 demo video](https://img.youtube.com/vi/jY7n1OhanR4/maxresdefault.jpg)](https://youtu.be/jY7n1OhanR4)
